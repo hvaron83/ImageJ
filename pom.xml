@@ -13,10 +13,6 @@
         </excludes>
       </resource>
     </resources>
-    <properties>
-  <sonar.organization>hvaron83</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
